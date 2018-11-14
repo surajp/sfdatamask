@@ -1,0 +1,28 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": ".\\force-app",
+            "package": "DataMask",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "dependencies": [
+                {
+                    "package": "fflib-unlocked@0.1.0-1"
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "DataMask": "0Ho6A000000PAwZSAW",
+        "fflib-unlocked@0.1.0-1": "04t0H000001DyXMQA0",
+        "DataMask@0.1.0-2": "04t6A000003SuehQAC"
+    }
+}

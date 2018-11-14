@@ -1,0 +1,8 @@
+{
+    "orgName": "Masker Dev Org",
+    "edition": "Developer",
+    "adminEmail": "suraj.pillai@vertexcs.com",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
